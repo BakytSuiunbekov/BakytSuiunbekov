@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BakytSuiunbekov
+- 👋 Hi, I’m Bakyt Suiunbekov
 - 👀 I’m interested in ...i am interesed in physics and chemistry
 - 🌱 I’m currently learning ..dart & flutter.
 - 💞️ I’m looking to collaborate on ...
